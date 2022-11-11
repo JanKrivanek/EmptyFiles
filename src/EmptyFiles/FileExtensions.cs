@@ -130,6 +130,7 @@ public static class FileExtensions
         "coffee",
         "coffeekup",
         "conf",
+        "config",
         "cp",
         "cpp",
         "cpt",
@@ -415,3 +416,6 @@ public static class FileExtensions
 
     public static IEnumerable<string> TextExtensions => textExtensions;
 }
+
+
+
